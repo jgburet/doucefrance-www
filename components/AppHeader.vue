@@ -45,23 +45,13 @@
 </template>
 
 <script>
-import options from '~/config/site'
-
 export default {
   data () {
     return {
       showMenu: false
     }
   },
-  pages: [
-    'home',
-    'rooms',
-    'hotel',
-    'plan',
-    options.displaySeminars && 'seminars',
-    'village',
-    'faq'
-  ].filter(x => !!x)
+  pages: ['home', 'rooms', 'hotel', 'plan', 'seminars', 'village', 'faq']
 }
 </script>
 
