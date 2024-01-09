@@ -30,24 +30,24 @@
           <img src="/images/hotel/salon-de-the.jpg" />
         </div>
 
-        <div class="block" v-if="$options.displayDining">
+        <div class="block">
           <img src="/images/hotel/salle-restauration.jpg" />
         </div>
 
-        <div class="block" v-if="$options.displayDining">
+        <div class="block">
           <h3>{{ $t('hotel.lightMeals.title') }}</h3>
           <p>{{ $t('hotel.lightMeals.content[0]') }}</p>
           <p>{{ $t('hotel.lightMeals.content[1]') }}</p>
           <p>{{ $t('hotel.lightMeals.content[2]') }}</p>
         </div>
 
-        <div class="block" v-if="$options.displayRoomService">
+        <div class="block">
           <h3>{{ $t('hotel.roomService.title') }}</h3>
           <p>{{ $t('hotel.roomService.content[0]') }}</p>
           <p>{{ $t('hotel.roomService.content[1]') }}</p>
         </div>
 
-        <div class="block" v-if="$options.displayRoomService">
+        <div class="block">
           <img src="/images/hotel/service-en-chambre.jpg" />
         </div>
 

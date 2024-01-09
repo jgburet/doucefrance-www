@@ -1,17 +1,11 @@
 <template>
   <section class="faq">
     <div class="page-content">
-      <h2>{{ $t('routes.faq.name') }}</h2>
+      <h2>{{ $t('routes.faq.name') }}</h2>
       <ul class="list">
         <li v-for="num in 11" :key="num">
-          <template v-if="$options[$t(`faq.content[${num - 1}]`).withFallback] === false">
-            <h3>{{$t(`faq.content[${num - 1}].fallback.q`)}}</h3>
-            <p>{{$t(`faq.content[${num - 1}].fallback.a`)}}</p>
-          </template>
-          <template v-else>
-            <h3>{{$t(`faq.content[${num - 1}].q`)}}</h3>
-            <p>{{$t(`faq.content[${num - 1}].a`)}}</p>
-          </template>
+          <h3>{{$t(`faq.content[${num - 1}].q`)}}</h3>
+          <p>{{$t(`faq.content[${num - 1}].a`)}}</p>
         </li>
       </ul>
     </div>
@@ -49,8 +43,3 @@
   }
 
 </style>
-
-<script>
-import options from '/config/site'
-export default options
-</script>
