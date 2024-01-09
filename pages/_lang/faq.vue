@@ -13,7 +13,7 @@
 </template>
 
 <style scoped lang="scss">
-  @import '~@/style/vars';
+  @import '@/style/vars';
 
   .page-content {
     padding: 30px 20px 60px;

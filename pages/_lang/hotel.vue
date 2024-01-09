@@ -57,7 +57,7 @@
 </template>
 
 <style scoped lang="scss">
-  @import '~@/style/vars';
+  @import '@/style/vars';
 
   .page-header {
     background-image: url('/images/hotel-douce-france-veules-les-roses.jpg');
@@ -74,3 +74,10 @@
     }
   }
 </style>
+
+<script>
+import options from '~/config/site'
+export default {
+  ...options
+}
+</script>

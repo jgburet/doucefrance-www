@@ -56,7 +56,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-  @import '~@/style/vars';
+  @import '@/style/vars';
 
   .header {
     a {
