@@ -5,7 +5,7 @@
     <div class="page-content">
       <div class="blocks">
         <div class="block">
-          <h2>{{ $t('routes.seminars.name') }}</h2>
+          <h2>{{ $t('routes.seminars.name') }}</h2>
 
           <p><strong>{{ $t('seminars.intro') }}</strong></p>
 

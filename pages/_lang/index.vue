@@ -41,10 +41,10 @@
         </div>
 
         <div class="block">
-          <p>{{ $t('home.description[0]') }}</p>
-          <p>{{ $t('home.description[1]') }}</p>
-          <p>{{ $t('home.description[2]') }}</p>
-          <p>{{ $t('home.description[3]') }}</p>
+          <p>{{ $t('home.description[0]') }}</p>
+          <p>{{ $t('home.description[1]') }}</p>
+          <p>{{ $t('home.description[2]') }}</p>
+          <p>{{ $t('home.description[3]') }}</p>
         </div>
 
         <div class="block">
@@ -93,7 +93,7 @@
         })
       }
     },
-    components: {
+    components: {
       AppCarousel,
       SpecialOffer
     }

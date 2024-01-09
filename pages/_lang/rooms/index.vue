@@ -20,7 +20,7 @@
                 </div>
 
                 <span class="button-secondary">
-                  {{ $t('rooms.from', { price: category.price }) }}
+                  {{ $t('rooms.from', { price: category.price }) }}
                 </span>
               </div>
             </NuxtLink>
@@ -31,11 +31,11 @@
       <div>
         <div>
           <ul class="fees list">
-            <li>{{ $t('rooms.fees[0]') }}</li>
-            <li>{{ $t('rooms.fees[1]') }}</li>
-            <li>{{ $t('rooms.fees[2]') }}</li>
-            <li>{{ $t('rooms.fees[3]') }}</li>
-            <li>{{ $t('rooms.fees[4]') }}</li>
+            <li>{{ $t('rooms.fees[0]') }}</li>
+            <li>{{ $t('rooms.fees[1]') }}</li>
+            <li>{{ $t('rooms.fees[2]') }}</li>
+            <li>{{ $t('rooms.fees[3]') }}</li>
+            <li>{{ $t('rooms.fees[4]') }}</li>
           </ul>
         </div>
         <div>

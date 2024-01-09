@@ -5,7 +5,7 @@
     <div class="page-content">
       <div class="blocks">
         <div class="block">
-          <h2>{{ $t('routes.hotel.name') }}</h2>
+          <h2>{{ $t('routes.hotel.name') }}</h2>
           <p>{{ $t('hotel.intro') }}</p>
         </div>
 
@@ -17,37 +17,37 @@
 
         <div class="block">
           <h3>{{ $t('hotel.breakfast.title') }}</h3>
-          <p>{{ $t('hotel.breakfast.content') }}</p>
+          <p>{{ $t('hotel.breakfast.content') }}</p>
         </div>
 
         <div class="block">
           <h3>{{ $t('hotel.tearoom.title') }}</h3>
-          <p>{{ $t('hotel.tearoom.content[0]') }}</p>
-          <p>{{ $t('hotel.tearoom.content[1]') }}</p>
+          <p>{{ $t('hotel.tearoom.content[0]') }}</p>
+          <p>{{ $t('hotel.tearoom.content[1]') }}</p>
         </div>
 
         <div class="block">
           <img src="/images/hotel/salon-de-the.jpg" />
         </div>
 
-        <div class="block">
+        <div class="block" v-if="$options.displayDining">
           <img src="/images/hotel/salle-restauration.jpg" />
         </div>
 
-        <div class="block">
+        <div class="block" v-if="$options.displayDining">
           <h3>{{ $t('hotel.lightMeals.title') }}</h3>
-          <p>{{ $t('hotel.lightMeals.content[0]') }}</p>
-          <p>{{ $t('hotel.lightMeals.content[1]') }}</p>
-          <p>{{ $t('hotel.lightMeals.content[2]') }}</p>
+          <p>{{ $t('hotel.lightMeals.content[0]') }}</p>
+          <p>{{ $t('hotel.lightMeals.content[1]') }}</p>
+          <p>{{ $t('hotel.lightMeals.content[2]') }}</p>
         </div>
 
-        <div class="block">
+        <div class="block" v-if="$options.displayRoomService">
           <h3>{{ $t('hotel.roomService.title') }}</h3>
-          <p>{{ $t('hotel.roomService.content[0]') }}</p>
-          <p>{{ $t('hotel.roomService.content[1]') }}</p>
+          <p>{{ $t('hotel.roomService.content[0]') }}</p>
+          <p>{{ $t('hotel.roomService.content[1]') }}</p>
         </div>
 
-        <div class="block">
+        <div class="block" v-if="$options.displayRoomService">
           <img src="/images/hotel/service-en-chambre.jpg" />
         </div>
 

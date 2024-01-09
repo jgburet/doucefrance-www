@@ -10,12 +10,12 @@
           <ul class="list">
             <li>
               <a :href="$t('village.links.veules.url')" target="_blank">
-                {{ $t('village.links.veules.label') }}
+                {{ $t('village.links.veules.label') }}
               </a>
             </li>
             <li>
               <a :href="$t('village.links.caux.url')" target="_blank">
-                {{ $t('village.links.caux.label') }}
+                {{ $t('village.links.caux.label') }}
               </a>
             </li>
           </ul>
@@ -23,7 +23,7 @@
           <br/>
 
           <div>
-            <h3>{{ $t('village.intro.title') }}</h3>
+            <h3>{{ $t('village.intro.title') }}</h3>
             <p>{{ $t('village.intro.content' )}}</p>
           </div>
 
@@ -36,7 +36,7 @@
         </div>
 
         <div class="block">
-          <h3>{{ $t('village.activities.title') }}</h3>
+          <h3>{{ $t('village.activities.title') }}</h3>
           <p>{{ $t('village.activities.content[0]') }}</p>
           <ul class="list">
             <li>{{ $t('village.activities.list[0]') }}</li>

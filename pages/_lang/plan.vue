@@ -5,9 +5,9 @@
     <div class="page-content">
       <div class="blocks">
         <div class="block">
-          <h2>{{ $t('routes.plan.name') }}</h2>
+          <h2>{{ $t('routes.plan.name') }}</h2>
 
-          <p>{{ $t('plan.intro') }}</p>
+          <p>{{ $t('plan.intro') }}</p>
 
           <p>
             <strong>Douce France</strong><br>
@@ -18,15 +18,15 @@
 
           <br/>
           <ul class="list">
-            <li>{{ $t('plan.distances[0]') }}</li>
-            <li>{{ $t('plan.distances[1]') }}</li>
-            <li>{{ $t('plan.distances[2]') }}</li>
-            <li>{{ $t('plan.distances[3]') }}</li>
+            <li>{{ $t('plan.distances[0]') }}</li>
+            <li>{{ $t('plan.distances[1]') }}</li>
+            <li>{{ $t('plan.distances[2]') }}</li>
+            <li>{{ $t('plan.distances[3]') }}</li>
           </ul>
         </div>
 
         <div class="block">
-          <h3>{{ $t('plan.fromParis.title') }}</h3>
+          <h3>{{ $t('plan.fromParis.title') }}</h3>
           <ul class="list">
             <li>{{ $t('plan.fromParis.instructions[0]') }}</li>
             <li>{{ $t('plan.fromParis.instructions[1]') }}</li>
@@ -34,7 +34,7 @@
             <li>{{ $t('plan.fromParis.instructions[3]') }}</li>
           </ul>
 
-          <h3>{{ $t('plan.fromLeHavre.title') }}</h3>
+          <h3>{{ $t('plan.fromLeHavre.title') }}</h3>
           {{ $t('plan.fromLeHavre.instructions[0]') }}
           <ul class="list">
             <li>{{ $t('plan.fromLeHavre.instructions[1]') }}</li>
@@ -42,14 +42,14 @@
             <li>{{ $t('plan.fromLeHavre.instructions[3]') }}</li>
           </ul>
 
-          <h3>{{ $t('plan.withTrain.title') }}</h3>
+          <h3>{{ $t('plan.withTrain.title') }}</h3>
           <ul class="list">
             <li>{{ $t('plan.withTrain.instructions[0]') }}</li>
             <li>{{ $t('plan.withTrain.instructions[1]') }}</li>
           </ul>
           <br/>{{ $t('plan.withTrain.instructions[2]') }}
 
-          <h3>{{ $t('plan.fromEngland.title') }}</h3>
+          <h3>{{ $t('plan.fromEngland.title') }}</h3>
           <ul class="list">
             <li>{{ $t('plan.fromEngland.instructions[0]') }}</li>
             <li>{{ $t('plan.fromEngland.instructions[1]') }}</li>
