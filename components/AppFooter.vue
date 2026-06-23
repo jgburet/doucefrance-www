@@ -16,6 +16,7 @@
           13 rue Dr Girard<br/>
           76980 Veules les Roses<br/>
           FRANCE<br/>
+          <br/>
           CASAMAR<br/>
           SIRET : 900 728 312 000 19
         </div>
