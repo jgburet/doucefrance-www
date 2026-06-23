@@ -3,7 +3,7 @@
     <div>
       <div>
         <NuxtLink :to="$i18n.locale === 'fr' ? '/' : '/en'" class="home-link">
-          <p>Relais Hôtelier</p>
+          <p>Hôtel</p>
           <img src="~/assets/douce-france.svg" alt="Douce France" >
         </NuxtLink>
       </div>

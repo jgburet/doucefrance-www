@@ -40,16 +40,15 @@
   "common": {
     "actions": {
       "booking": "Book now",
+      "visit-room": "Book",
       "contact": "Contact us"
     },
     "phone": "Phone",
-    "email": "Mail",
-    "fax": "Fax"
+    "email": "Mail"
   },
   "contact": {
-    "email": "contact@doucefrance.fr",
+    "email": "contact@casamar.fr",
     "phone": "+33235578530",
-    "fax": "+33235578531",
     "facebook": "https://www.facebook.com/relaishotelierdoucefrance/"
   },
   "specialOffers": {
@@ -77,9 +76,9 @@
     ]
   },
   "home": {
-    "welcome": "Welcome to Relais Hôtelier Douce France",
+    "welcome": "Welcome to Hotel Douce France",
     "intro": [
-      "Relais Hôtel located in <strong>Veules les Roses</strong>, a romantic and authentic village in Normandy, 500 meters from the sea.",
+      "Hotel located in <strong>Veules les Roses</strong>, a romantic and authentic village in Normandy, 500 meters from the sea.",
       "Listed in the official guide to the most beautiful villages in France."
     ],
     "description": [
@@ -98,7 +97,7 @@
     }
   },
   "plan": {
-    "intro": "Our Relais Hôtelier Douce France is located in the heart of the magnificent Village of Veules les Roses, in the Seine Maritime (Upper Normandy)",
+    "intro": "Our Hotel Douce France is located in the heart of the magnificent Village of Veules les Roses, in the Seine Maritime (Upper Normandy)",
     "distances": [
       "26km (16 miles) from Dieppe",
       "194km (120 miles) from Paris",
@@ -166,7 +165,7 @@
     }
   },
   "seminars": {
-    "intro": "Your important events at the Relais Hôtelier Douce France",
+    "intro": "Your important events at Hotel Douce France",
     "content": [
       "A haven of peace in Normandy, confined and full of charm, very close to the sea, for your business meetings, only 2 hours from Paris and Lille, 1 hour from Rouen and Le Havre, or even 30 kilometres from Dieppe and Yvetot.",
       "An ideal place to organize, in small groups, with a capacity of 15 people seated around the table or 25 people seated in an assembly, your seminars, general assemblies, management committees, conferences, study days, business meetings, or simply a family meeting or event.",
@@ -229,7 +228,7 @@
     "content": [
       {
         "q": "Do you have a parking lot?",
-        "a": "We do not have a private parking but you can park near the hotel in the surrounding streets (free of charge) or on the parking lot of the town hall 50 meters from the hotel"
+        "a": "We have 18 private parking spaces at a rate of €25 per night. These spaces are secured and must be booked sufficiently in advance, subject to availability. We will provide you with the booking procedure upon request."
       },
       {
         "q": "Late arrival?",
@@ -237,11 +236,11 @@
       },
       {
         "q": "How do I pay for my stay?",
-        "a": "By credit card, cash or cheques. We do not accept American Express, nor holiday vouchers (subject to additional commissions)."
+        "a": "We accept American Express as well as all major credit cards. Holiday vouchers (chèques-vacances) are not accepted."
       },
       {
         "q": "When do I have to pay for my stay?",
-        "a": "You can pay for your stay when you leave. Your bank details will be requested at the time of booking as a simple guarantee."
+        "a": "You can pay for your stay when you arrive."
       },
       {
         "q": "WIFI",
@@ -249,11 +248,11 @@
       },
       {
         "q": "What are the cancellation conditions?",
-        "a": "The reservation can be cancelled up to 24 hours before your arrival. After this period, the first night will be charged to you."
+        "a": "The reservation can be cancelled up to 14 days before your arrival. After this period, the total stay will be charged to you."
       },
       {
         "q": "Does the establishment accept animals?",
-        "a": "Yes and this with a supplement of 15 € for the entire stay. We reserve the right to charge for any damage that may be caused in the future."
+        "a": "Small animals are accepted in three dedicated apartments only. We invite you to contact us before making a reservation to check availability. Animals are not allowed in the common areas of the establishment."
       },
       {
         "q": "At what time can we take possession of the suite?",
