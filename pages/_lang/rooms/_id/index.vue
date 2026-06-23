@@ -6,9 +6,6 @@
      <div>
        <h2>{{ $t(`rooms.${category.key}.name`) }}</h2>
        <h3>{{ $t(`rooms.${category.key}.intro`) }}</h3>
-       <div>
-         <strong>{{ $t('rooms.from', { price: category.price }) }}</strong>
-       </div>
      </div>
 
      <section v-for="room in category.rooms" :key="room.name">

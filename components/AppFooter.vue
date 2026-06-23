@@ -4,7 +4,7 @@
 
       <div>
         <NuxtLink :to="$i18n.locale === 'fr' ? '/' : '/en'" class="logo">
-          <p>Relais Hôtelier</p>
+          <p>Hôtel</p>
           <img src="~/assets/douce-france.svg" alt="Douce France" />
         </NuxtLink>
       </div>
@@ -15,16 +15,14 @@
         <div>
           13 rue Dr Girard<br/>
           76980 Veules les Roses<br/>
-          FRANCE
+          FRANCE<br/>
+          Casamar 900 728 312 000 19
         </div>
         <div>
           {{ $t('common.phone') }} :
           <a :href="`tel:${$t('contact.phone')}`">
             {{ $t('contact.phone') }}
           </a>
-          <br/>
-          {{ $t('common.fax') }} :
-          {{ $t('contact.fax') }}
           <br/>
           {{ $t('common.email') }} :
           <a :href="`mailto:${$t('contact.email')}`">

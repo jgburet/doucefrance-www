@@ -20,7 +20,7 @@
                 </div>
 
                 <span class="button-secondary">
-                  {{ $t('rooms.from', { price: category.price }) }}
+                  {{ $t('common.actions.visit-room') }}
                 </span>
               </div>
             </NuxtLink>

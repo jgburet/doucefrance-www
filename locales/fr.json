@@ -40,16 +40,15 @@
   "common": {
     "actions": {
       "booking": "Réserver maintenant",
+      "visit-room": "Réserver",
       "contact": "Nous contacter"
     },
     "phone": "Téléphone",
-    "email": "Email",
-    "fax": "Fax"
+    "email": "Email"
   },
   "contact": {
-    "email": "contact@doucefrance.fr",
+    "email": "contact@casamar.fr",
     "phone": "+33235578530",
-    "fax": "+33235578531",
     "facebook": "https://www.facebook.com/relaishotelierdoucefrance/"
   },
   "specialOffers": {
@@ -77,9 +76,9 @@
     ]
   },
   "home": {
-    "welcome": "Bienvenue au Relais Hôtelier Douce France",
+    "welcome": "Bienvenue à l'Hôtel Douce France",
     "intro": [
-      "Relais Hôtel situé à <strong>Veules les Roses</strong>, village romantique et authentique de Normandie, à 500 mètres de la mer.",
+      "Hôtel situé à <strong>Veules les Roses</strong>, village romantique et authentique de Normandie, à 500 mètres de la mer.",
       "Classé  dans le guide officiel des plus beaux villages de France."
     ],
     "description": [
@@ -98,7 +97,7 @@
     }
   },
   "plan": {
-    "intro": "Notre Relais Hôtelier Douce France se situe au cœur du magnifique Village de Veules les Roses, en Seine Maritime (Haute Normandie)",
+    "intro": "Notre Hôtel Douce France se situe au cœur du magnifique Village de Veules les Roses, en Seine Maritime (Haute Normandie)",
     "distances": [
       "à 26 km de Dieppe",
       "à 194 km de Paris",
@@ -166,7 +165,7 @@
     }
   },
   "seminars": {
-    "intro": "Vos événements importants au Relais Hôtelier Douce France",
+    "intro": "Vos événements importants à l'Hôtel Douce France",
     "content": [
       "Un havre de paix en Normandie dépaysant, confiné et plein de charme, tout proche de la mer, pour vos réunions d'affaires, à seulement 2 heures de Paris et de Lille, à 1 heure de Rouen et du Havre, ou même 30 kilomètres de Dieppe et Yvetot.",
       "Un lieu idéal pour organiser, en petit comité, avec une capacité d’accueil du 15 personnes assises autour de la table et ou 25 personnes assises en assemblée, vos séminaires, assemblées générales, comités de direction, conférences, journées d'étude, réunions d'affaires, ou tout simplement une réunion ou événement familial.",
@@ -241,7 +240,7 @@
       },
       {
         "q": "Quand dois-je régler mon séjour?",
-        "a": "Vous pouvez régler votre séjour au moment de votre départ. Vos coordonnées bancaires vous seront demandées lors de la réservation comme simple garantie."
+        "a": "Vous pouvez régler votre séjour au moment de votre arrivée."
       },
       {
         "q": "WIFI",
@@ -249,7 +248,7 @@
       },
       {
         "q": "Quelles sont les conditions d'annulation?",
-        "a": "La réservation peut être annulée jusqu'à 24 heures avant votre arrivée. Passé ce délai, la première nuit vous sera débitée."
+        "a": "La réservation peut être annulée jusqu'à 14 jours avant votre arrivée. Passé ce délai, la totalité du séjour vous sera débitée."
       },
       {
         "q": "L'établissement accepte t'il les animaux?",
