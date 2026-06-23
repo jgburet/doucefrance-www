@@ -228,7 +228,7 @@
     "content": [
       {
         "q": "Do you have a parking lot?",
-        "a": "We do not have a private parking but you can park near the hotel in the surrounding streets (free of charge) or on the parking lot of the town hall 50 meters from the hotel"
+        "a": "We have 18 private parking spaces at a rate of €25 per night. These spaces are secured and must be booked sufficiently in advance, subject to availability. We will provide you with the booking procedure upon request."
       },
       {
         "q": "Late arrival?",
@@ -236,7 +236,7 @@
       },
       {
         "q": "How do I pay for my stay?",
-        "a": "By credit card, cash or cheques. We do not accept American Express, nor holiday vouchers (subject to additional commissions)."
+        "a": "We accept American Express as well as all major credit cards. Holiday vouchers (chèques-vacances) are not accepted."
       },
       {
         "q": "When do I have to pay for my stay?",
@@ -252,7 +252,7 @@
       },
       {
         "q": "Does the establishment accept animals?",
-        "a": "Yes and this with a supplement of 15 € for the entire stay. We reserve the right to charge for any damage that may be caused in the future."
+        "a": "Small animals are accepted in three dedicated apartments only. We invite you to contact us before making a reservation to check availability. Animals are not allowed in the common areas of the establishment."
       },
       {
         "q": "At what time can we take possession of the suite?",

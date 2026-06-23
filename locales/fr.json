@@ -228,7 +228,7 @@
     "content": [
       {
         "q": "Avez vous un parking?",
-        "a": "Nous ne disposons pas d'un parking privatif mais vous pourrez vous stationner aux abords de l'hôtel dans les rues avoisinantes (non payantes) ou sur le parking de la mairie à 50 mètres de l'hôtel"
+        "a": "Nous disposons de 18 places de parking privées au tarif de 25 € par nuit. Ces emplacements sont sécurisés et doivent être réservés suffisamment à l'avance, sous réserve de disponibilité. Nous vous communiquerons la procédure de réservation sur demande."
       },
       {
         "q": "Arrivée tardive?",
@@ -236,7 +236,7 @@
       },
       {
         "q": "Comment régler mon séjour?",
-        "a": "Par carte bancaire, espèces ou chèques. Nous n'acceptons pas l'American  Express, ni les chèques vacances (étants sujets à des commissions supplémentaires)."
+        "a": "Nous acceptons l'American Express ainsi que les principales cartes bancaires. En revanche, les chèques-vacances ne sont pas acceptés."
       },
       {
         "q": "Quand dois-je régler mon séjour?",
@@ -252,7 +252,7 @@
       },
       {
         "q": "L'établissement accepte t'il les animaux?",
-        "a": "Oui et cela avec un supplément de 15 € pour l'ensemble du séjour. Nous nous réservons le droit de facturer les éventuelles dégradations qui pourraient être occasionnées dans la suite."
+        "a": "Les animaux de petite taille sont acceptés uniquement dans trois appartements dédiés. Nous vous invitons à nous contacter avant toute réservation afin de vérifier les disponibilités. Les animaux ne sont pas autorisés dans les parties communes de l'établissement."
       },
       {
         "q": "À quelle heure pouvons nous prendre possession de la suite?",
